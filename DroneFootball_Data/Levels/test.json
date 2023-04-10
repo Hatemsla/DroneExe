@@ -1,0 +1,65 @@
+{
+  "-838": {
+    "name": "Floor(Clone)",
+    "position": "6,221985 2,22007E-19 -1,999662",
+    "rotation": "0 0 0",
+    "scale": "250 250 250",
+    "layer": "8"
+  },
+  "-932": {
+    "name": "Floor(Clone)",
+    "position": "6,221985 2,22007E-19 3,000338",
+    "rotation": "0 0 0",
+    "scale": "250 250 250",
+    "layer": "8"
+  },
+  "-1026": {
+    "name": "Slant(Clone)",
+    "position": "8,992702 1,25 3,137064",
+    "rotation": "0 0 0",
+    "scale": "125 125 200",
+    "layer": "8"
+  },
+  "-1072": {
+    "name": "Slant(Clone)",
+    "position": "9,334563 1,25 -2,083998",
+    "rotation": "0 0 0",
+    "scale": "125 125 200",
+    "layer": "8"
+  },
+  "-1118": {
+    "name": "Floor(Clone)",
+    "position": "12,7427 2,5 3,137064",
+    "rotation": "0 0 0",
+    "scale": "250 250 250",
+    "layer": "8"
+  },
+  "-1212": {
+    "name": "Floor(Clone)",
+    "position": "12,7427 2,5 -1,862936",
+    "rotation": "0 0 0",
+    "scale": "250 250 250",
+    "layer": "8"
+  },
+  "-1306": {
+    "name": "Wall2(Clone)",
+    "position": "3,721985 0,716 -1,999662",
+    "rotation": "0 0 0",
+    "scale": "1 1 1",
+    "layer": "8"
+  },
+  "-1382": {
+    "name": "Wall2(Clone)",
+    "position": "3,721985 0,716 3,000338",
+    "rotation": "0 0 0",
+    "scale": "1 1 1",
+    "layer": "8"
+  },
+  "-1458": {
+    "name": "Lamp2(Clone)",
+    "position": "6,251037 0,09719668 0,1083093",
+    "rotation": "0 0 0",
+    "scale": "1 1 1",
+    "layer": "8"
+  }
+}
